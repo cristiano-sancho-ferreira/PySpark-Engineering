@@ -1,0 +1,162 @@
+[
+	{
+		"Dataset" : "pdv",
+		"SourceTable" : "tbge0020",
+		"Acronym" : "GE",
+		"EntityType" : "File - Text Delimited",
+		"Filename" : "FLC001_REDE",
+		"ExtractionType" : "delta",
+		"Delimiter" : "|",
+		"Frequency" : "daily",
+		"Description" : "Tabela que contém o cadastro de Pontos de Vendas - PDV",
+		"Columns" : [ 
+			{
+				"Id" : 1,
+				"Name" : "num_pdv",
+				"Datatype" : "string",
+				"Description" : "Número do Ponto de Venda",
+				"PrimaryKey" : 1
+			},
+			{
+				"Id" : 2,
+				"Name" : "cnpj_pdv",
+				"Datatype" : "string",
+				"Description" : "CNPJ do Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 3,
+				"Name" : "nome_pdv",
+				"Datatype" : "string",
+				"Description" : "Nome do Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 4,
+				"Name" : "criacao_pdv",
+				"Datatype" : "timestamp",
+				"Description" : "Data/Hora da criação do registro de Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 5,
+				"Name" : "atualizacao_pdv",
+				"Datatype" : "timestamp",
+				"Description" : "Data/Hora da atualização do registro de Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 6,
+				"Name" : "canal_pdv",
+				"Datatype" : "string",
+				"Description" : "Código do Canal referente ao Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 7,
+				"Name" : "celula_pdv",
+				"Datatype" : "string",
+				"Description" : "Código da Célula referente ao Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 8,
+				"Name" : "ativo_fl",
+				"Datatype" : "int",
+				"Description" : "Indicador se Ponto de Venda está ativo",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 9,
+				"Name" : "carteira_fl",
+				"Datatype" : "int",
+				"Description" : "Indicador se Ponto de Venda tem carteira ativa",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 10,
+				"Name" : "empr_fl",
+				"Datatype" : "int",
+				"Description" : "Indicador se Ponto de Venda tem empréstimo ativo",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 11,
+				"Name" : "contr_pdv",
+				"Datatype" : "int",
+				"Description" : "Indicador se Ponto de Venda tem contrato ativo",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 12,
+				"Name" : "saldo_pdv",
+				"Datatype" : "double",
+				"Description" : "Indicador se Ponto de Venda tem saldo a receber",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 13,
+				"Name" : "seg_pdv",
+				"Datatype" : "string",
+				"Description" : "Código do Segmento referente ao Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 14,
+				"Name" : "linha_pdv",
+				"Datatype" : "string",
+				"Description" : "Código da Linha de negócio referente ao Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 15,
+				"Name" : "cons_pdv",
+				"Datatype" : "string",
+				"Description" : "Código da Consignação referente ao Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 16,
+				"Name" : "data_ult_mov",
+				"Datatype" : "string",
+				"Description" : "Data/Hora da última movimentação do Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 17,
+				"Name" : "clas_mktg_cd",
+				"Datatype" : "string",
+				"Description" : "Classificação da categoria de marketing",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 18,
+				"Name" : "data_cred_conta",
+				"Datatype" : "date",
+				"Description" : "Data do Crédito em Conta",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 19,
+				"Name" : "pdv_endr_desc",
+				"Datatype" : "string",
+				"Description" : "Endereco Completo do Ponto de Venda",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 20,
+				"Name" : "desc_cli",
+				"Datatype" : "string",
+				"Description" : "Descricao do Cliente",
+				"PrimaryKey" : 0
+			},
+			{
+				"Id" : 21,
+				"Name" : "contato_cli",
+				"Datatype" : "string",
+				"Description" : "Contato no Cliente",
+				"PrimaryKey" : 0
+			}
+		]
+	}
+]

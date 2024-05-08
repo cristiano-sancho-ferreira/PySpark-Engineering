@@ -1,0 +1,9 @@
+cliente_id;nm_cliente;nr_cpf;dt_nasci;complemento;nr_telefone;cep;cep_mae;salario;desconto_salario;cod_banco;nome_banco
+1;guilherme;108908;30031986;             179,casa 1         ;00-0910-2646;400487;;71993.34;21;33;Santander
+1;guilherme;163362;20031983;             97,casa 1         ;00-1365-3969;400487;;34812.34;208;33;Santander
+1;guilherme;217816;26041989;             194,casa 3         ;00-1820-5292;400487;;13884.47;219;33;Santander
+2;guilherme;272270;18111982;             304,casa 1         ;00-2275-6615;;400487;88561.84;12;33;Santander
+2;vitor;326724;29081988;             207,casa 1         ;00-2730-7938;400487;;32141.87;220;33;Santander
+3;kelvin;381178;15011997;             121,casa 2         ;00-3185-9261;400487;;52535.62;149;33;Santander
+4;rogerio;435632;15071997;             309,casa 1         ;00-3641-0584;400487;;22055.04;164;33;Santander
+4;rogerio;490086;19051996;             66,casa 3         ;00-4096-1907;400487;;14216.09;214;33;Santander

@@ -1,0 +1,16 @@
+cep_id|nm_enredeco|bairro|cidade|UF
+305095|av jucelino cursino|centro|São paulo|SP
+303989|av brasil|centro|São paulo|SP
+400487|av interlargos|centro|São paulo|SP
+512496|av copacabana|centro|Rio de Janeiro|RJ
+965268|rua dom pedro primeiro|centro|São paulo|SP
+931429|rua vicente giacaline|Vila zilda|São paulo|SP
+287560|rua governador valadares|Vila zilda|São paulo|SP
+840060|rua sérgio vicente|Vila zilda|São paulo|SP
+746023|rua ana carolina fernandes|Vicenza|São paulo|SP
+187173|rua sabrina freire|Vicenza|São paulo|SP
+931949|rua capuava|Vicenza|São paulo|SP
+871432|rua lucas matos|Vicenza|São paulo|SP
+667061|alameda lorena|Nova Iorque|São paulo|SP
+526407|alameda augusta|Nova Iorque|São paulo|SP
+472787|alameda oscar portugal|Nova Iorque|São paulo|SP
