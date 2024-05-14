@@ -1,0 +1,5 @@
+spark API Docs- https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html?highlight=dataframe#pyspark.sql.DataFrame
+
+How to pass- https://msdatalab.net/how-to-pass-the-associate-developer-for-apache-spark-certification/
+
+https://medium.com/knowledgelens/how-to-crack-databricks-certified-associate-developer-for-apache-spark-3-0-exam-df482c9dd826
